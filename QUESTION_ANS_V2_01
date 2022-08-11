@@ -1,0 +1,19 @@
+# set up function here
+
+# ***** main *****
+score = 0
+# first function call here
+question_1 = "What is the biggest planet in our solar system? 1- Earth 2- Mars 3- Saturn 4- Jupiter "
+
+# second call here
+question_2 = "What animals have wings, beaks and only two feet? 1- lions 2- birds 3- rabbits 4- cats"
+
+
+# third call here
+question_3 = "Which of the following is the correct answer to: 3x7? 1- 23 2- 44 3- 68 4- 21"
+
+# fourth
+question_4 = "What is the most important meal of the day? 1- breakfast 2- lunch 3- dinner 4- snack time"
+
+# fifth
+question_5 = "Which of the following are native New Zealand animals? 1- Kiwi 2- Kea 3-Tui 4- All of the above"
